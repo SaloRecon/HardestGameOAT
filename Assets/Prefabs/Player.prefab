@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbd75d0ef02f5744c81c2427b27f1df5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
-  speed: 185
+  speed: 125
   coinText: {fileID: 8447417670766879850}
   coin: {fileID: 0}
   pointsCanva: {fileID: 6630347246069240688}

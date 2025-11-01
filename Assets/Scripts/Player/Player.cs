@@ -17,14 +17,14 @@ public class Player : MonoBehaviour
     
     void Start()
     {
-        Application.targetFrameRate = 60;
+        
         initialPosition = transform.position;
         rb = GetComponent<Rigidbody2D>();
         StartCoroutine(LoadPoints());
 
     }
     
-    void Update()
+     private void FixedUpdate()
     {
         PlayerMovement();
     }
