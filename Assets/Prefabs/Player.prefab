@@ -52,6 +52,8 @@ MonoBehaviour:
   coinText: {fileID: 8447417670766879850}
   coin: {fileID: 0}
   pointsCanva: {fileID: 6630347246069240688}
+  coinSound: {fileID: 8300000, guid: 15ac3c6ced3b8de4c89dca9eb4483cbd, type: 3}
+  damageSound: {fileID: 8300000, guid: c97760374c4ab0d49b22ab1e2b2377a1, type: 3}
 --- !u!212 &7686293369482867569
 SpriteRenderer:
   m_ObjectHideFlags: 0
